@@ -2,7 +2,7 @@
   "name": "game2d",
   "version": "1.0.0",
   "description": "2D game",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "devStart": "nodemon server.js"
   },
